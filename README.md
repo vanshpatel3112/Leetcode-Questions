@@ -40,4 +40,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
