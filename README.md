@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
