@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
@@ -38,10 +39,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
 ## Database
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
