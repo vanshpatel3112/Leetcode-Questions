@@ -57,6 +57,7 @@
 | ------- |
 | [0183-customers-who-never-order](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Dynamic Programming
 |  |
 | ------- |
