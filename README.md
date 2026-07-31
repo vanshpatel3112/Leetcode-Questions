@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
