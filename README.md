@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,10 +78,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0015-3sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Bit Manipulation
 |  |
 | ------- |
