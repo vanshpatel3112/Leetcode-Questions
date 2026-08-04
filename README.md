@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0015-3sum) |
@@ -95,5 +96,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
