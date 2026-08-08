@@ -47,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0027-remove-element](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Database
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
