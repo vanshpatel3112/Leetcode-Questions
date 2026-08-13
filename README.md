@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -53,6 +54,7 @@
 | [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
