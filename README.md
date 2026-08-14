@@ -28,6 +28,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -55,12 +56,14 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
