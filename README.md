@@ -29,6 +29,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0011-container-with-most-water](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +139,12 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
