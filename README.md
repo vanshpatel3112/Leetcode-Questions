@@ -19,6 +19,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
