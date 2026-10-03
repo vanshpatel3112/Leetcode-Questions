@@ -61,6 +61,7 @@
 | [0014-longest-common-prefix](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
@@ -166,9 +168,14 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
