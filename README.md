@@ -65,6 +65,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -187,5 +190,6 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
