@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -123,6 +124,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -134,6 +136,7 @@
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -151,6 +154,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,4 +202,8 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
