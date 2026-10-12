@@ -18,6 +18,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +130,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
