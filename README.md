@@ -19,6 +19,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -34,6 +35,7 @@
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
