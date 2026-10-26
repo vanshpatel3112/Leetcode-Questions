@@ -26,6 +26,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -225,4 +227,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshpatel3112/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
